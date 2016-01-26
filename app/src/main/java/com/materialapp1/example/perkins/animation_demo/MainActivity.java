@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity implements Animation.Animati
         //hold on t
         myView = (ImageView)findViewById(R.id.imageView);
         // load the animation
+
         animRotate1 = AnimationUtils.loadAnimation(getApplicationContext(),
                 R.anim.rotate);
 
