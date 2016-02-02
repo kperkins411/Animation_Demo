@@ -8,7 +8,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity implements Animation.AnimationListener{
-    // Animation
+    // Animation demo
     private Animation animRotate1;
 
     private ImageView myView;
